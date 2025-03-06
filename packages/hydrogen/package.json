@@ -4,7 +4,7 @@
     "access": "public"
   },
   "type": "module",
-  "version": "2025.1.2",
+  "version": "2025.1.6",
   "license": "MIT",
   "main": "dist/index.cjs",
   "module": "dist/production/index.js",
