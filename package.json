@@ -32,28 +32,7 @@
     "check": "npm run build && npm run lint && npm run typecheck && npm run test"
   },
   "workspaces": [
-    "docs/preview",
-    "examples/b2b",
-    "examples/classic-remix",
-    "examples/custom-cart-method",
-    "examples/express",
-    "examples/gtm",
-    "examples/infinite-scroll",
-    "examples/legacy-customer-account-flow",
-    "examples/metaobjects",
-    "examples/multipass",
-    "examples/partytown",
-    "examples/sitemap",
-    "examples/subscriptions",
-    "examples/third-party-queries-caching",
-    "packages/cli",
-    "packages/create-hydrogen",
-    "packages/hydrogen-codegen",
-    "packages/hydrogen-react",
-    "packages/hydrogen",
-    "packages/mini-oxygen",
-    "packages/remix-oxygen",
-    "templates/skeleton"
+    "packages/hydrogen"
   ],
   "prettier": "@shopify/prettier-config",
   "dependencies": {

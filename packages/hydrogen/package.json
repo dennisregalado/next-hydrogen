@@ -1,8 +1,7 @@
 {
-  "name": "@shopify/hydrogen",
+  "name": "next-hydrogen",
   "publishConfig": {
-    "access": "public",
-    "@shopify:registry": "https://registry.npmjs.org"
+    "access": "public"
   },
   "type": "module",
   "version": "2025.1.2",
@@ -13,7 +12,7 @@
   "sideEffects": false,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Shopify/hydrogen.git",
+    "url": "git+https://github.com/dennisregalado/next-hydrogen.git",
     "directory": "packages/hydrogen"
   },
   "scripts": {
